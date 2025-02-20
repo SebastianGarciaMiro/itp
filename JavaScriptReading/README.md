@@ -1,0 +1,17 @@
+#JavaScript Reading
+###By Sebastian Garcia Miro
+##Values, Types, and Operators
+###Thing I did know
+It's crazy how one person (in this case me) that is totally new to this world of coding would think at first that everything in this world is totally new. Personally I was not expecting to find something new in the first chapter I would read about JavaScript, and I'm glad I did. The thing I knew from this chapter was four types of JavaScript values (numbers, strings, Booleans, and undefined values) and to be honest I have no idea how I knew that.
+###Thing I did not know
+One thing that caught be by surpirse (or at least one of them) was that "JavaScript goes out of its way to accept almost any program you give it, even programs that do odd things". I always expected coding to be something very very very specific, and learning that this language can get out of its way was something that made me realize how little I know about this world.
+##Program Structure
+###Thing I did know
+One thing I remember fondly from last class is that we all stood up and followed instructions in the same order as they were written, you could say they were from top to buttom. That's why when the author said "the statements are executed as though they were a story, from top to bottom" reminded me of class and made this part of the reading more familiar. I learnt from before that languages like this follow a sequential order.
+###Thing I did not know
+One thing that I did not know was that "the standard JavaScript functions, and most JavaScript programmers, follow the style: `fuzzyLittleTurtle`; capitalizing every word except the first". It still doesn't make a lot of sense to me why is this the case. I plan to ask more about this in class (lets pray I remember because I might forget to ask). I'm not gonna lie, it scared me a little because it shows me that programming is not going to be easy to master. I mean, it's not that I was thinking it was easy to master, it's just that it's gonna be even harder than I thought.
+##Functions
+###Thing I did know
+I have to admit, trying to understand this chapter was as hard as trying to understand German (I don't speak German). I have to say that there is no single thing that I already knew from this chapter. However, there is a thing that I didn't exactly "knew" but I was kind of expecting it. The author mentioned that "JavaScript distinguishes not just global and local bindings. Blocks and functions can be created inside other blocks and functions, producing multiple degrees of locality". I was expecting this because I imagine Javascript as this huge and universal way to program, and imagining that it's not limited by the global or local bindings seems right regarding how was I imagining this language.
+###Thing I did not know
+I mean, it's safe to say for me that I did not know basically the whole chapter. But, trying to point something that did caught my attention for a bit was that "A function definition is a regular binding where the value of the binding is a function". I mean, I don't even understand what that even means. I hope I'm not too dumb for programming because these chapter right here felt like a bomb, and these phrase I just mentioned was the cherry on top.
