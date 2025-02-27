@@ -1,6 +1,6 @@
 # Fahrenheit to Celsius Converter
 
-##By Sebastian Garcia Miro
+## By Sebastian Garcia Miro
 
 For this assignment, I left the classroom very scared because compared all of the previous classes and assignments we've had so far this semester, I understood nothing. Now, I don't want to blame the professor or anything like that because the whole confusion was on me. It was just so much new information about this language that I have never spoke (or in this case written) in my whole life. 
 
