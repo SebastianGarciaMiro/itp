@@ -12,7 +12,8 @@ I created the index.html and added the code
  ```<header>
    `<h1 class="logo">Sebastian Garcia Miro</h1>
     <img src="images/profile.jpg" alt="Sebastian Garcia Miro" class="profile-pic">
-  </header>```
+  </header>
+  ```
   
   to create a header with my name with it. I used the same science in all of the headers from every section but I didn't but an image in all of them. Also, the headers after the main one are `h2`so that they won't be as big and present as the main title of my website.
 
