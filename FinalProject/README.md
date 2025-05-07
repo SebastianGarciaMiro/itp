@@ -10,7 +10,7 @@ First, I have to say that the only class that I missed, was the class where ever
 I created the index.html and added the code
 
  ```<header>
-   `<h1 class="logo">Sebastian Garcia Miro</h1>
+   <h1 class="logo">Sebastian Garcia Miro</h1>
     <img src="images/profile.jpg" alt="Sebastian Garcia Miro" class="profile-pic">
   </header>
   ```
