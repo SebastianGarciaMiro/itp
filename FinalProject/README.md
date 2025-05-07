@@ -7,11 +7,12 @@ Well, getting back into ky project itself. I remember that my proposal was to do
 
 First, I have to say that the only class that I missed, was the class where everyone learnt how to program using HTML, so I was in some disadvantage to learn. Before I went to class 2 weeks ago, when we did the Band website group project, I started doing a lot of reaserch on my own, and I do have to admit that ChatGPT basically taught me how to use HTML. So when I started the final project, I first went through what I learnt in the Band group project and what ChatGPT taught me.
 
-I created the index.html and added the code ` <header>
-    <h1 class="logo">Sebastian Garcia Miro</h1>
-    <img src="images/profile.jpg" alt="Sebastian Garcia Miro" class="profile-pic">
-  </header>
-` to create a header with my name with it. I used the same science in all of the headers from every section but I didn't but an image in all of them. Also, the headers after the main one are `h2`so that they won't be as big and present as the main title of my website.
+I created the index.html and added the code
+ `<header>`
+   `<h1 class="logo">`Sebastian Garcia Miro`</h1>`
+    `<img src="images/profile.jpg"` alt="Sebastian Garcia Miro" class="profile-pic">
+  `</header>`
+  to create a header with my name with it. I used the same science in all of the headers from every section but I didn't but an image in all of them. Also, the headers after the main one are `h2`so that they won't be as big and present as the main title of my website.
 
 I aslo created the style.css file so that I could edit the style of my website and make it look cooler. For the band project, we did a black background with white letters, and I really like how it looked so I copied the idea into my own website. I also used the style.css to align all of my headers and paragraphs in the middle, because it was looking a little weird when it was all align to the left.
 
